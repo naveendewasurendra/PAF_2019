@@ -14,7 +14,7 @@ public class Product {
 	private float price;
 	
 	protected Product() {
-		
+		//
 	}
 	
 	@Id

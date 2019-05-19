@@ -25,7 +25,7 @@ public class AppContoller {
 		model.addAttribute("listProducts", listProducts);
 		 
 		return "index";
-		
+		//
 	}
 	
 	@RequestMapping("/new")
